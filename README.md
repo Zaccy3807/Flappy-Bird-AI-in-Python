@@ -8,3 +8,4 @@ The 4 inputs are:
   -The agents Y velocity
   
 Uploaded 29/05/2023
+NOT FINISHED GENETIC ALGORITHM
